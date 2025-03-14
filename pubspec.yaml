@@ -1,7 +1,7 @@
 name: download_path_provider
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+repository: https://github.com/ujwalbasnet1/download_path_provider
 
 environment:
   sdk: ^3.5.3
